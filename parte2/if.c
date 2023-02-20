@@ -1,5 +1,4 @@
-/* programa que informa a
-relação entre dois números */
+// programa que informa a relação entre dois números
 #include <stdio.h>
 
 int main(){
