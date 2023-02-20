@@ -1,1 +1,1 @@
-# Introducao_a_Linguagem_C
+Este repositório contém códigos baseados em Linguagem C

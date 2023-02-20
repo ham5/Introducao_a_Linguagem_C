@@ -1,4 +1,4 @@
-// código que imprime uma frase
+// programa que imprime uma frase
 #include <stdio.h>
 
 int main(){
