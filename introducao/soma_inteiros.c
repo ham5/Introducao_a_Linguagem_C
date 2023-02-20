@@ -8,13 +8,13 @@ int main(){
 
     printf("Digite o valor do primeiro inteiro:\n");
     scanf("%d", &num_1);    // solicita o valor do primeiro inteiro e armazena em num_1
-
+    
     printf("Digite o valor do segundo inteiro:\n");
     scanf("%d", &num_2);    // solicita o valor do segundo inteiro e armazena em num_2
 
-    soma = num_1 + num_2;   // soma os dois inteiros informados
+    soma = num_1 + num_2;   // realiza a soma dos inteiros e armazena na variável "soma"
 
-    printf("O resultado da soma é %d\n", soma);   // imprime o valor de soma
+    printf("O resultado da soma é %d\n", soma);   // imprime o valor de "soma"
 
     return 0;
 }
