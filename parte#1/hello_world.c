@@ -1,4 +1,4 @@
-// imprimindo uma frase
+/* imprimindo uma frase */
 #include <stdio.h>
 
 int main(){
